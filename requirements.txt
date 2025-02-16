@@ -1,0 +1,17 @@
+streamlit
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+seaborn
+black
+flake8
+pylint
+astor
+networkx
+pytest
+sqlalchemy
+tensorflow
+autopep8
+psutil
